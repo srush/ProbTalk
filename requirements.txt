@@ -1,0 +1,5 @@
+black
+torch==1.10
+streambook
+matplotlib
+seaborn
