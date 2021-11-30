@@ -1,4 +1,4 @@
-# ProbTalk
+# Differential Inference Talk
 
 * Video : https://www.youtube.com/watch?v=pQFSceBN4R0
 
@@ -6,4 +6,4 @@
 
 * Web : https://srush.github.io/ProbTalk/talk.notebook.html#/
 
-* Notebook: https://srush.github.io/ProbTalk/talk.notebook.ipynb#/
+* Notebook: https://github.com/srush/ProbTalk/blob/main/talk.notebook.ipynb
